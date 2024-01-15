@@ -354,8 +354,7 @@ p{
   border-radius: 5px;
 }
 .S2_home .services-section{
-  display: flex;
-  justify-content: space-between;
+  margin-top: 40px;
 }
 .S2_home .box svg{
   font-size: 50px;
